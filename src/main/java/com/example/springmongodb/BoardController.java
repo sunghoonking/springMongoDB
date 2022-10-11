@@ -58,11 +58,6 @@ public class BoardController {
 
         return 1; // 1 : 성공, -1 : 실패
     }
-
-
-
-
-
 }
 
 
